@@ -1,4 +1,4 @@
-vpkgname=8189fs-git
+pkgname=8189fs-git
 _pkgname=rtl8189ES_linux
 pkgver=r64.c6493c3
 pkgrel=1
